@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
 	}
 
 	// TODO: tambahkan callback onStart() di sini
-
 	@Override
 	protected void onStart() {
 		super.onStart();
